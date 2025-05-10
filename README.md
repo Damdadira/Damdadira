@@ -1,4 +1,4 @@
-## Damdadira 🍊
+ <h2 align="center">Damdadira 🍊</h2>
 
 <!-- <h3 align="center">PROFILE</h3>
 <p align="center">
