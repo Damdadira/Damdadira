@@ -1,16 +1,21 @@
-## Hi there 👋
+## Damdadira 🍊
 
-<!--
-**Damdadira/Damdadira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <h3 align="center">PROFILE</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logoColor=white&color=green" />
+  </a>
+</p> -->
 
-Here are some ideas to get you started:
+<h3 align="center">FRONT-END</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=green" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=green" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=green" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white&color=green" alt="CSS3 Badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <h3 align="center">BACK-END</h3>
+<p align="center">
+  
+</p> -->
