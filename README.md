@@ -1,11 +1,11 @@
  <h2 align="center">Damdadira 🍊</h2>
 
-<!-- <h3 align="center">PROFILE</h3>
+<h3 align="center">PROFILE</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logoColor=white&color=green" />
+  <a href="https://false-meter-8d6.notion.site/1faeb401868d802d8a70d46321f89056">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=green" />
   </a>
-</p> -->
+</p> 
 
 <h3 align="center">FRONT-END</h3>
 <p align="center">
