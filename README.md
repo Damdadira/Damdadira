@@ -3,7 +3,7 @@
 <h3 align="center">PROFILE</h3>
 <p align="center">
   <a href="https://false-meter-8d6.notion.site/1faeb401868d802d8a70d46321f89056">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=green" />
+    <img src="https://img.shields.io/badge/Click Me-%23000000.svg?style=for-the-badge&logoColor=white&color=lightcoral"/>
   </a>
 </p> 
 
@@ -38,10 +38,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=green" />
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=green" />
+  <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=green" />
-</p>
-
-<h3 align="center">COMMUNICATION</h3>
-<p align="center">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=green" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&color=green" />
 </p>
