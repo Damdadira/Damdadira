@@ -42,6 +42,8 @@
   <br/>
   
 ### 🛠 BackEnd
+- 삼성디스플레이 파견(YMS 3.0 프로젝트)시 사용했던 언어, 2년 이상 사용?????
+  
 ### 💾 DataBase
 ### 🔍 Framework
 ### 🚀 Depoly/Hosting
