@@ -117,5 +117,56 @@
   <br/>
   
 ### 🔍 Framework
+- 개인 프로젝트와 업무에서 사용했던 프레임워크
+  
+  <table>
+    <thead>
+      <tr>
+        <th>기술 스택</th>
+        <th>사용 경험</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react" />
+          <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" />
+        </td>
+        <td>전역 및 서버 상태 관리에 사용</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+          <img src="https://img.shields.io/badge/React%20Hook-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white" />
+        </td>
+        <td>기본 훅 활용 및 URL 연결 처리</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white" />
+          <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+        </td>
+        <td>컴포넌트 스타일링</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
+          <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
+          <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white" />
+        </td>
+        <td>프로젝트 세팅 및 의존성 관리</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+        </td>
+        <td>간단한 API 서버 구축</td>
+      </tr> 
+    </tbody>
+  </table>
+  <br/>
+  
 ### 🚀 Depoly/Hosting
 ### 🎈 Collaboration
