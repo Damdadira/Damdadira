@@ -1,4 +1,4 @@
-<h1 align="left">Damdadira 🍊</h1>
+<h1>Damdadira 🍊</h1>
 <h3>◾ I'm a WEB FrontEnd Developer</h3>
 <p>
   <a href="https://false-meter-8d6.notion.site/1faeb401868d802d8a70d46321f89056?pvs=74">
@@ -168,5 +168,64 @@
   </table>
   <br/>
   
-### 🚀 Depoly/Hosting
+### 🚀 Deploy / Hosting
+- 개인 프로젝트에서 사이트 배포
+
+  <table>
+    <thead>
+      <tr>
+        <th>기술 스택</th>
+        <th>사용 경험</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" />
+        </td>
+        <td>프론트엔드 프로젝트 배포</td>
+      </tr>
+    </tbody>
+  </table>
+  <br/>
+  
 ### 🎈 Collaboration
+- 협업 도구 활용
+
+  <table>
+    <thead>
+      <tr>
+        <th>기술 스택</th>
+        <th>사용 경험</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" />
+        </td>
+        <td>형상 관리 및 코드 리뷰</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+        </td>
+        <td>UI 시안 확인</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
+        </td>
+        <td>프로젝트 정보 정리 및 일정 공유</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+        </td>
+        <td>팀원 간 실시간 소통</td>
+      </tr>
+    </tbody>
+  </table>
+  <br/>
