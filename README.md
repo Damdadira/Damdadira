@@ -1,12 +1,12 @@
-<div align="center">
- <h2>Damdadira 🍊</h2>
-  <h3 >WEB FrontEnd Developer</h3>
-  <a href="https://false-meter-8d6.notion.site/1faeb401868d802d8a70d46321f89056">
-    <img src="https://img.shields.io/badge/Click Me-%23000000.svg?style=for-the-badge&logoColor=white&color=green"/>
+<h1 align="left">Damdadira 🍊</h1>
+<h3>◾ I'm a WEB FrontEnd Developer</h3>
+<p>
+  <a href="https://false-meter-8d6.notion.site/1faeb401868d802d8a70d46321f89056?pvs=74">
+    <img src="https://img.shields.io/badge/포트폴리오_구경하러가기-2962FF?style=for-the-badge&logoColor=white&color=green" />
   </a>
-</div>
-<br/><br/>
- 
+</p>
+<br/>
+
 ### 🎨 FrontEnd
 - **주력 언어**, 3년 이상 사용
   
@@ -98,7 +98,7 @@
         <td>
           <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
         </td>
-        <td>개인 프로젝트에서 활용</td>
+        <td>API 연동을 통한 실시간 데이터 동기화 및 비동기 처리 경험</td>
       </tr>
       <tr>
         <td>
