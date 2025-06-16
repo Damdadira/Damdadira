@@ -64,6 +64,12 @@
         </td>
         <td>서버 연동 및 로그 확인을 위한 Eclipse 활용</td>
       </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white" />
+        </td>
+        <td>API 명세 확인 및 테스트 (서버팀 제공 문서 기반)</td>
+      </tr>
     </tbody>
   </table>
   <br/>
