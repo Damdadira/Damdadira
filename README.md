@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
         </td>
         <td>기초 문법 및 타입 정의 학습 진행 중</td>
       </tr>
