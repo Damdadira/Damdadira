@@ -98,7 +98,7 @@
         <td>
           <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
         </td>
-        <td>API 연동을 통한 실시간 데이터 동기화 및 비동기 처리 경험</td>
+        <td>API 연동을 통한 실시간 데이터 동기화 및 비동기 처리</td>
       </tr>
       <tr>
         <td>
