@@ -33,9 +33,15 @@
       </tr>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
         </td>
         <td>컴포넌트 기반 설계, 상태 관리, 훅 사용</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+        </td>
+        <td>기초 문법 및 타입 정의 학습 진행 중</td>
       </tr>
     </tbody>
   </table>
