@@ -157,8 +157,9 @@
       <tr>
         <td>
           <img src="https://img.shields.io/badge/CSS_Module-hotpink.svg?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/vanilla--extract-%2324C8DB.svg?style=flat-square&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
           <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=flat-square&logoColor=white" />
         </td>
         <td>컴포넌트 스타일링</td>
