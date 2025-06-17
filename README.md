@@ -153,6 +153,12 @@
           <img src="https://img.shields.io/badge/React%20Hook-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white" />
         </td>
         <td>기본 훅 활용 및 URL 연결 처리</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+        </td>
+        <td>컴포넌트 UI 확인 및 프리뷰 용</td>
       </tr> 
       <tr>
         <td>
