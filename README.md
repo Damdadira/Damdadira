@@ -174,9 +174,14 @@
         <td>
           <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
           <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
-          <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white" />
         </td>
         <td>프로젝트 세팅 및 의존성 관리</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+        </td>
+        <td>MVC 구조를 기반으로 웹 애플리케이션을 개발</td>
       </tr> 
       <tr>
         <td>
