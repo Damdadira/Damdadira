@@ -121,6 +121,7 @@
       <tr>
         <td>
           <img src="https://img.shields.io/badge/DBeaver-%23AC6E2F.svg?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQL_Gate-EA2328?style=flat-square&logoColor=white" />
         </td>
         <td>데이터 조회 및 DB 구조 분석</td>
       </tr>
