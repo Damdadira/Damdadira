@@ -43,6 +43,12 @@
         </td>
         <td>기초 문법 및 타입 정의 학습 진행 중</td>
       </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/DevExtreme-31A8FF.svg?style=flat-square&logoColor=white" />
+        </td>
+        <td>라이브러리(Grid, TreeList, SelectBox 등)를 활용한 UI 개발</td>
+      </tr>
     </tbody>
   </table>
   <br/>
@@ -180,9 +186,15 @@
       </tr> 
       <tr>
         <td>
+          <img src="https://img.shields.io/badge/WinForms-%23C04392?style=flat-square&logoColor=white" />
+        </td>
+        <td>.NET 기반 데스크탑 애플리케이션 개발</td>
+      </tr> 
+      <tr>
+        <td>
           <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
         </td>
-        <td>MVC 구조를 기반으로 웹 애플리케이션을 개발</td>
+        <td>MVC 구조를 기반으로 웹 애플리케이션 개발</td>
       </tr> 
       <tr>
         <td>
