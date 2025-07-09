@@ -199,6 +199,7 @@
       <tr>
         <td>
           <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+          <img src="https://img.shields.io/badge/Axios-%2364f.svg?style=flat-square&logoColor=white" />
         </td>
         <td>간단한 API 서버 구축</td>
       </tr> 
