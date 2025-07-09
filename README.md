@@ -148,7 +148,7 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/Context_API-000000?style=flat-square&logo=react" />
+          <img src="https://img.shields.io/badge/Context_API-000000?style=flat-square" />
           <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /><br/>
           <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" />
         </td>
