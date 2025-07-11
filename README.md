@@ -113,7 +113,7 @@
   </table>
   <br/>
   
-### 💾 DataBase
+### 💾 Database
   <table>
     <thead>
       <tr>
@@ -160,7 +160,7 @@
   </table>
   <br/>
   
-### 🔍 Tools & Technologies
+### ⚙ Development Tools
   <table>
     <thead>
       <tr>
@@ -204,7 +204,7 @@
   </table>
   <br/>
   
-### 🚀 Deploy
+### 🚀 Deployment
   <table>
     <thead>
       <tr>
