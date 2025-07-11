@@ -129,7 +129,7 @@
   </table>
   <br/>
   
-### 🔍 Frameworks & Utilities 
+### 🛠 Tools & Technologies
 - 개인 프로젝트와 업무에서 사용했던 프레임워크
   
   <table>
