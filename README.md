@@ -58,10 +58,10 @@
       <tr>
         <td>
           <img src="https://img.shields.io/badge/CSS_Modules-hotpink.svg?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Vanilla--Extract-%2324C8DB.svg?style=flat-square&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=flat-square&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Vanilla--Extract-%2324C8DB.svg?style=flat-square&logoColor=white" />
         </td>
         <td>컴포넌트 스타일링</td>
       </tr> 
@@ -92,8 +92,8 @@
       </tr>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
           <img src="https://img.shields.io/badge/Axios-%2364f.svg?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
         </td>
         <td>간단한 API 서버 구축</td>
       </tr> 
@@ -124,9 +124,9 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/MonetDB-003545?style=flat-square&logoColor=white" /><br/>
           <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/MonetDB-003545?style=flat-square&logoColor=white" />
           <img src="https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white" />
         </td>
         <td>DBeaver를 활용한 데이터베이스 조회 및 쿼리 실행</td>
