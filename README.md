@@ -203,6 +203,12 @@
         </td>
         <td>간단한 API 서버 구축</td>
       </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        </td>
+        <td>REST API 연동 및 테스트</td>
+      </tr> 
     </tbody>
   </table>
   <br/>
