@@ -90,6 +90,25 @@
         </td>
         <td>MVC 구조를 기반으로 웹 애플리케이션 개발</td>
       </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+          <img src="https://img.shields.io/badge/Axios-%2364f.svg?style=flat-square&logoColor=white" />
+        </td>
+        <td>간단한 API 서버 구축</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white" />
+        </td>
+        <td>API 명세 확인 및 테스트 (서버팀 제공 문서 기반)</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        </td>
+        <td>REST API 연동 및 테스트</td>
+      </tr> 
     </tbody>
   </table>
   <br/>
@@ -152,16 +171,16 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
-        </td>
-        <td>컴포넌트 UI 확인 및 프리뷰 용</td>
-      </tr> 
-      <tr>
-        <td>
           <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
           <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
         </td>
         <td>프로젝트 세팅 및 의존성 관리</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+        </td>
+        <td>컴포넌트 UI 확인 및 프리뷰 용</td>
       </tr> 
        <tr>
         <td>
@@ -177,29 +196,10 @@
       </tr> 
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
-          <img src="https://img.shields.io/badge/Axios-%2364f.svg?style=flat-square&logoColor=white" />
-        </td>
-        <td>간단한 API 서버 구축</td>
-      </tr> 
-      <tr>
-        <td>
           <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white" />
         </td>
         <td>서버 연동 및 로그 확인을 위한 Eclipse 활용</td>
       </tr>
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white" />
-        </td>
-        <td>API 명세 확인 및 테스트 (서버팀 제공 문서 기반)</td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        </td>
-        <td>REST API 연동 및 테스트</td>
-      </tr> 
     </tbody>
   </table>
   <br/>
