@@ -8,8 +8,6 @@
 <br/>
 
 ### 🎨 FrontEnd
-- **주력 언어**, 3년 이상 사용
-  
   <table>
     <thead>
       <tr>
@@ -33,23 +31,45 @@
       </tr>
       <tr>
         <td>
+          <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+        </td>
+        <td>기초 문법 및 타입 정의 학습 진행 중</td>
+      </tr>
+      <tr>
+        <td>
           <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
         </td>
         <td>컴포넌트 기반 설계, 상태 관리, 훅 사용</td>
       </tr>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+          <img src="https://img.shields.io/badge/React%20Hook-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white" />
         </td>
-        <td>기초 문법 및 타입 정의 학습 진행 중</td>
+        <td>기본 훅 활용 및 URL 연결 처리</td>
       </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Context_API-000000?style=flat-square" />
+          <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" />
+        </td>
+        <td>전역 및 서버 상태 관리에 사용</td>
+      </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/CSS_Modules-hotpink.svg?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vanilla--Extract-%2324C8DB.svg?style=flat-square&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=flat-square&logoColor=white" />
+        </td>
+        <td>컴포넌트 스타일링</td>
+      </tr> 
     </tbody>
   </table>
   <br/>
   
 ### 🛠 BackEnd
-- 삼성디스플레이 프로젝트에서 사용했던 언어, 2년 이상 사용
-
   <table>
     <thead>
       <tr>
@@ -66,23 +86,15 @@
       </tr>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white" />
+          <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
         </td>
-        <td>서버 연동 및 로그 확인을 위한 Eclipse 활용</td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white" />
-        </td>
-        <td>API 명세 확인 및 테스트 (서버팀 제공 문서 기반)</td>
+        <td>MVC 구조를 기반으로 웹 애플리케이션 개발</td>
       </tr>
     </tbody>
   </table>
   <br/>
   
 ### 💾 DataBase
-- RDBMS 및 NoSQL 환경에서의 데이터 조회 경험과 DBeaver 활용
-
   <table>
     <thead>
       <tr>
@@ -130,8 +142,6 @@
   <br/>
   
 ### 🔍 Tools & Technologies
-- 개인 프로젝트와 업무에서 사용했던 프레임워크
-  
   <table>
     <thead>
       <tr>
@@ -142,34 +152,9 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/Context_API-000000?style=flat-square" />
-          <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" />
-        </td>
-        <td>전역 및 서버 상태 관리에 사용</td>
-      </tr> 
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
-          <img src="https://img.shields.io/badge/React%20Hook-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white" />
-        </td>
-        <td>기본 훅 활용 및 URL 연결 처리</td>
-      </tr>
-      <tr>
-        <td>
           <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
         </td>
         <td>컴포넌트 UI 확인 및 프리뷰 용</td>
-      </tr> 
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/CSS_Modules-hotpink.svg?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Vanilla--Extract-%2324C8DB.svg?style=flat-square&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=flat-square&logoColor=white" />
-        </td>
-        <td>컴포넌트 스타일링</td>
       </tr> 
       <tr>
         <td>
@@ -192,17 +177,23 @@
       </tr> 
       <tr>
         <td>
-          <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-        </td>
-        <td>MVC 구조를 기반으로 웹 애플리케이션 개발</td>
-      </tr>
-      <tr>
-        <td>
           <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
           <img src="https://img.shields.io/badge/Axios-%2364f.svg?style=flat-square&logoColor=white" />
         </td>
         <td>간단한 API 서버 구축</td>
       </tr> 
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white" />
+        </td>
+        <td>서버 연동 및 로그 확인을 위한 Eclipse 활용</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white" />
+        </td>
+        <td>API 명세 확인 및 테스트 (서버팀 제공 문서 기반)</td>
+      </tr>
       <tr>
         <td>
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -214,8 +205,6 @@
   <br/>
   
 ### 🚀 Deploy
-- 개인 프로젝트에서 사이트 배포
-
   <table>
     <thead>
       <tr>
@@ -236,8 +225,6 @@
   <br/>
   
 ### 🎈 Collaboration
-- 협업 도구 활용
-
   <table>
     <thead>
       <tr>
