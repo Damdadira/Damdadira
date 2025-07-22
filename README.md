@@ -1,7 +1,7 @@
 <h1>Damdadira 🍊</h1>
 <h3>◾ I'm a WEB FrontEnd Developer</h3>
 <p>
-  <a href="https://www.figma.com/proto/YQ7y24FxkR6qI5RCG94rco/%ED%94%84%EB%A1%9C%ED%95%84?node-id=0-1&t=LAwW7c57WKKps7Zo-1">
+  <a href="https://www.figma.com/proto/YQ7y24FxkR6qI5RCG94rco/%ED%94%84%EB%A1%9C%ED%95%84?node-id=0-1&t=LAwW7c57WKKps7Zo-1" target="_blank">
     <img src="https://img.shields.io/badge/포트폴리오_구경하러가기-2962FF?style=for-the-badge&logoColor=white&color=green" />
   </a>
 </p>
