@@ -178,6 +178,14 @@
       </tr> 
       <tr>
         <td>
+          <img src="https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B" /><br/>
+          <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white" />
+        </td>
+        <td>단위/통합/컴포넌트 테스트 작성</td>
+      </tr> 
+      <tr>
+        <td>
           <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
         </td>
         <td>컴포넌트 UI 확인 및 프리뷰 용</td>
